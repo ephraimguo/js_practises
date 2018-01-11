@@ -1,4 +1,4 @@
-/* 
+/*
 	Xie Kai's JavaScript Document.
 	After Miaowei Classroom learning, completely write their own code library.
 */
@@ -39,33 +39,33 @@ function getStyle( obj, attr ){
 
 //obj是盒子  attr是要走的宽或者高  dir是步长，target是到达的位置，endfn是可以继续执行的函数
 function doMove ( obj, attr, dir, target, endFn ) {
-	
+
 	dir = parseInt(getStyle( obj, attr )) < target ? dir : -dir;
-	
+
 	clearInterval( obj.timer );
-	
+
 	obj.timer = setInterval(function () {
-		
+
 		var speed = parseInt(getStyle( obj, attr )) + dir;			// 步长
-		
+
 		if ( speed > target && dir > 0 ||  speed < target && dir < 0  ) {
 			speed = target;
 		}
-		
+
 		obj.style[attr] = speed + 'px';
-		
+
 		if ( speed == target ) {
 			clearInterval( obj.timer );
-			
+
 			/*
 			if ( endFn ) {
 				endFn();
 			}
 			*/
 			endFn && endFn();
-			
+
 		}
-		
+
 	}, 30);
 }
 
@@ -84,7 +84,7 @@ function shake ( obj, attr, endFn ) {
 	var arr = [];			// 20, -20, 18, -18 ..... 0
 	var num = 0;
 	var timer = null;
-		
+
 	for ( var i=20; i>0; i-=2 ) {
 		arr.push( i, -i );
 	}
@@ -112,13 +112,13 @@ function hide(obj,cy,sec,endFn){
 	var timer = null;
 	var fadeNum = Number(getStyle( obj, 'opacity' )*100);
 	var fadeNum1 = Number(getStyle( obj, 'opacity' ));
-	
+
 	timer = setInterval(function(){
 		fadeNum -= 10;
 		fadeNum1 -=0.1;
-		obj.style.filter="alpha(opacity="+fadeNum+")";  
-		obj.style['-moz-opacity'] =fadeNum1;  
-		obj.style['-khtml-opacity']=fadeNum1;  
+		obj.style.filter="alpha(opacity="+fadeNum+")";
+		obj.style['-moz-opacity'] =fadeNum1;
+		obj.style['-khtml-opacity']=fadeNum1;
 		obj.style.opacity = fadeNum1;
 		if(fadeNum==cy*100 || fadeNum1==cy){
 			clearInterval( timer );
@@ -139,9 +139,9 @@ function out(obj,cy,sec,endFn){
 	timer = setInterval(function(){
 		fadeNum += 10;
 		fadeNum1 +=0.1;
-		obj.style.filter="alpha(opacity="+fadeNum+")";  
-		obj.style['-moz-opacity'] =fadeNum1;  
-		obj.style['-khtml-opacity']=fadeNum1;  
+		obj.style.filter="alpha(opacity="+fadeNum+")";
+		obj.style['-moz-opacity'] =fadeNum1;
+		obj.style['-khtml-opacity']=fadeNum1;
 		obj.style.opacity = fadeNum1;
 		if(fadeNum==cy*100 || fadeNum1==cy){
 			clearInterval( timer );
