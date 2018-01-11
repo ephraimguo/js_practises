@@ -121,7 +121,7 @@ a:hover{
 	text-align: center;
 	color: #6ca764;
 	padding-top: 40%;
-	background: rgb(40,126,32) url("../images/coffee2.png") no-repeat center 32%;
+	background: rgb(40,126,32) url("../../images/coffee2.png") no-repeat center 32%;
 	background-size: 50px 50px;
 }
 .machineText p{
@@ -140,7 +140,7 @@ a:hover{
 	text-align: center;
 	margin-top: -10%;
 	padding: 0;
-	background: url("../images/bean.jpg") no-repeat center center;
+	background: url("../../images/bean.jpg") no-repeat center center;
 	background-size: 100% 100%;
 }
 #coffeeImg .imgBg{
@@ -252,7 +252,7 @@ a:hover{
 	bottom: 7%;
 	display: inline-block;
 	display: none;
-	background: url(../images/phone.png) no-repeat center center;
+	background: url(../../images/phone.png) no-repeat center center;
 }
 #address .col-md-3{
 	position: relative;
@@ -293,7 +293,7 @@ a:hover{
 	background-attachment: fixed; 
 	background-repeat: no-repeat; 
 	background-position: center 70% ; 
-	background-image: url("../images/coffeeBg.jpg"); 
+	background-image: url("../../images/coffeeBg.jpg");
 	cursor: pointer;
 }
 #privilege>div{
@@ -377,7 +377,7 @@ a:hover{
 	/* 咖啡机 */
 	.machineText{
 		padding-top:30%;
-		background: rgb(40,126,32) url("../images/coffee2.png") no-repeat center 25%;
+		background: rgb(40,126,32) url("../../images/coffee2.png") no-repeat center 25%;
 	}
 	#carousel .carousel-caption h1{
 		font-size: 42px;
@@ -392,7 +392,7 @@ a:hover{
 	/* 咖啡机 */
 	.machineText{
 		padding-top:20%;
-		background: rgb(40,126,32) url("../images/coffee2.png") no-repeat center 15%;
+		background: rgb(40,126,32) url("../../images/coffee2.png") no-repeat center 15%;
 	}
 	
 }

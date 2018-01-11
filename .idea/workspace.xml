@@ -2,603 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87a94a57-e267-46f8-abed-4628381d1b9e" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/3DchangImg/img/1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/3DchangImg/img/2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/3DchangImg/img/3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/3DchangImg/img/44.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/3DchangImg/img/55.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/3DchangImg/img/66.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/3DchangImg/img/77.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/3DchangImg/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/3DchangImg/js/jquery-3.1.1.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/M4image/img/1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/M4image/img/2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/M4image/img/Thumbs.db" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/M4image/图片产品展示.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/ablum/images/Thumbs.db" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/ablum/images/big1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/ablum/images/big2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/ablum/images/big3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/ablum/images/big4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/ablum/images/big5.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/ablum/images/big6.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/ablum/images/big7.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/ablum/images/big8.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/ablum/images/big9.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/ablum/images/dirl.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/ablum/images/dirr.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/ablum/images/s1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/ablum/images/s2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/ablum/images/s3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/ablum/images/s4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/ablum/images/s5.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/ablum/images/s6.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/ablum/images/s7.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/ablum/images/s8.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/ablum/images/s9.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/ablum/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/adImages/css3制作广告轮播.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/adImages/images/1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/adImages/images/2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/adImages/images/3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/adImages/images/4.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/adImages/images/Thumbs.db" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/adImages/images/but1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/adImages/images/but2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/adImages/images/but3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/adImages/images/but4.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/bigIamge/images/1.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/bigIamge/放大镜效果.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/carousel/images/1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/carousel/images/2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/carousel/images/3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/carousel/images/4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/carousel/images/Thumbs.db" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/carousel/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/hoveInfo/images/image1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/hoveInfo/images/image2.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/hoveInfo/images/image3.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/hoveInfo/鼠标滑动文字动态效果.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/hoverInfo/images/Thumbs.db" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/hoverInfo/images/button.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/hoverInfo/images/pic1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/hoverInfo/images/pic2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/hoverInfo/images/pic3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/hoverInfo/images/pic4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/hoverInfo/images/pic5.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/hoverInfo/images/pic6.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/hoverInfo/images/pic7.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/hoverInfo/images/pic8.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/hoverInfo/images/pic9.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/hoverInfo/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/imglistChange/images/Thumbs.db" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/imglistChange/images/dirl.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/imglistChange/images/dirr.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/imglistChange/images/rec_img1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/imglistChange/images/rec_img10.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/imglistChange/images/rec_img2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/imglistChange/images/rec_img3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/imglistChange/images/rec_img4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/imglistChange/images/rec_img5.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/imglistChange/images/rec_img6.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/imglistChange/images/rec_img7.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/imglistChange/images/rec_img8.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/imglistChange/images/rec_img9.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/imglistChange/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/opacityCarousel/images/img1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/opacityCarousel/images/img2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/opacityCarousel/images/img3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/opacityCarousel/images/img4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/opacityCarousel/images/img5.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/opacityCarousel/images/img6.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/opacityCarousel/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/opacityCarousel/index2.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/opacityCarousel/jquery-3.1.1.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/randomImages/ads/1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/randomImages/ads/2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/randomImages/ads/3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/randomImages/ads/4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/randomImages/ads/5.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/randomImages/ads/Thumbs.db" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/randomImages/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/rotateImg/1.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/rotateImg/images/1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/rotateImg/images/2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Images/rotateImg/images/3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Menu/Sector navigation/img/clos.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Menu/Sector navigation/img/full.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Menu/Sector navigation/img/home.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Menu/Sector navigation/img/open.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Menu/Sector navigation/img/prev.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Menu/Sector navigation/img/refresh.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Menu/Sector navigation/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Menu/button/btn2.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Menu/button/images/arrow.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Menu/button/images/game.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Menu/button/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Menu/button/jquery-3.1.1.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Menu/button/ripple.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Menu/googleMenu/css3仿Google.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Menu/googleMenu/images/icoa1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Menu/googleMenu/images/icoa2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Menu/googleMenu/images/icoa3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Menu/googleMenu/images/icoa4.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Menu/googleMenu/images/icoa5.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Menu/googleMenu/images/icoa6.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Menu/iphone/images/1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Menu/iphone/images/2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Menu/iphone/images/3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Menu/iphone/images/4.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Menu/iphone/images/5.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Menu/iphone/images/6.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Menu/iphone/images/7.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Menu/iphone/images/8.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Menu/iphone/仿苹果电脑任务栏菜单.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Menu/language.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Menu/moveMenu/images/Thumbs.db" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Menu/moveMenu/images/border.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Menu/moveMenu/images/shad2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Menu/moveMenu/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Menu/rotatemenu.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Menu/scrollTop/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Menu/scrollTopMENU.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Menu/verticalSecondmenu/images/Thumbs.db" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Menu/verticalSecondmenu/images/css.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Menu/verticalSecondmenu/images/folder.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Menu/verticalSecondmenu/images/header.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Menu/verticalSecondmenu/images/html.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Menu/verticalSecondmenu/images/pen.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Menu/verticalSecondmenu/images/reload.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Menu/verticalSecondmenu/images/setting.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Menu/verticalSecondmenu/images/text_block.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Menu/verticalSecondmenu/images/tm_add.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Menu/verticalSecondmenu/images/tm_edit.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Menu/verticalSecondmenu/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/Menu/verticalSecondmenu/jquery-3.1.1.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/behind/add-user.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/behind/content.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/behind/css/bootstrap.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/behind/css/bootstrap.min.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/behind/css/index.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/behind/fonts/glyphicons-halflings-regular.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/behind/fonts/glyphicons-halflings-regular.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/behind/fonts/glyphicons-halflings-regular.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/behind/fonts/glyphicons-halflings-regular.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/behind/fonts/glyphicons-halflings-regular.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/behind/images/a.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/behind/images/b.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/behind/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/behind/js/Chart.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/behind/js/bootstrap.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/behind/js/jquery-3.1.1.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/behind/js/script.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/behind/tags.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/behind/user-search.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/behind/user.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/changeInfo/datas.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/changeInfo/info.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/checkboxChoose/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/clearemotionsGame/img/1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/clearemotionsGame/img/10.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/clearemotionsGame/img/11.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/clearemotionsGame/img/2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/clearemotionsGame/img/3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/clearemotionsGame/img/4.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/clearemotionsGame/img/5.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/clearemotionsGame/img/6.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/clearemotionsGame/img/7.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/clearemotionsGame/img/8.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/clearemotionsGame/img/9.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/clearemotionsGame/img/qq.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/clearemotionsGame/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/clearemotionsGame/xk.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/clock/images/0.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/clock/images/1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/clock/images/2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/clock/images/3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/clock/images/4.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/clock/images/5.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/clock/images/6.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/clock/images/7.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/clock/images/8.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/clock/images/9.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/clock/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/clocks/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/coffee/css/bootstrap.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/coffee/css/index.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/coffee/images/bean.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/coffee/images/coffee1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/coffee/images/coffee2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/coffee/images/coffee2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/coffee/images/coffee3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/coffee/images/coffee5.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/coffee/images/coffeeBg.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/coffee/images/drink.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/coffee/images/ka.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/coffee/images/list.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/coffee/images/list1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/coffee/images/list2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/coffee/images/list3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/coffee/images/list4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/coffee/images/list5.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/coffee/images/machine1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/coffee/images/machine2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/coffee/images/machine3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/coffee/images/moca.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/coffee/images/naTie.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/coffee/images/phone.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/coffee/images/redNa.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/coffee/images/shop1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/coffee/images/shop2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/coffee/images/shop3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/coffee/images/shop4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/coffee/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/coffee/js/bootstrap.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/coffee/js/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/coffee/js/jquery-3.1.1.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/coffee/js/jquery.singlePageNav.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/css/detail.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/css/head.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/css/index.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/css/reset.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/detail.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/detail_images/blue.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/detail_images/foot1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/detail_images/foot2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/detail_images/goods.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/detail_images/heart.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/detail_images/home.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/detail_images/hot.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/detail_images/hot1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/detail_images/img1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/detail_images/img2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/detail_images/img3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/detail_images/img4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/detail_images/jingDong.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/detail_images/left.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/detail_images/left1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/detail_images/left2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/detail_images/left3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/detail_images/like.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/detail_images/link.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/detail_images/per.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/detail_images/product.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/detail_images/promise.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/detail_images/right.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/detail_images/save.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/detail_images/see.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/detail_images/service.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/detail_images/wei.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/APP.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/JingDong.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/ad1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/ad2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/ad3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/ad4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/ad5.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/ad6.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/ad7.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/ad8e.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/ad_below1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/ad_below2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/address.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/after.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/beats.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/believe.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/bet_below20.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/bet_below21.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/bet_below22.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/bet_top10.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/bet_top11.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/bet_top12.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/birth.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/book1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/book2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/bot1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/bot2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/bouns.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/company.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/computer1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/computer2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/coupon1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/coupon2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/coupon3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/coupon4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/coupon5.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/device_left.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/device_middle.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/device_right.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/down.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/eat1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/eat2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/empty_shopping_car.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/enjoy1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/enjoy2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/enjoy3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/enjoy4.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/enjoy5.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/enjoy6.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/enough1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/enough10.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/enough2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/enough3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/enough4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/enough5.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/enough6.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/enough7.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/enough8.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/enough9.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/erwei.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/fly.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/footer_good.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/free.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/game.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/gift.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/good.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/gree.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/haier.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/high.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/hisense.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/home1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/home2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/hotel.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/joyoung.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/jubao.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/kill.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/kill1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/kill2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/kill3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/less.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/life1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/life2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/life_bot.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/lue.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/many_person.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/midea.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/mom1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/mom2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/money.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/movie.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/much.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/one_doller.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/pai.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/personal.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/philips.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/phone.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/phone1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/plus.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/police.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/prepare.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/privilige.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/profit.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/quick.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/ranking2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/ranking3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/ranking4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/ranking5.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/right1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/right2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/right3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/right_birde.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/right_car.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/right_edit.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/right_heart.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/right_person.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/right_time.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/right_top.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/right_txt.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/search.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/second_kill.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/service.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/shopping_car.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/siemens.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/soil.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/spec1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/spec2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/spec3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/spec4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/spec5.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/spec6.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/spec7.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/sport1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/sport2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/top_jing.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/top_mid1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/top_mid2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/top_mid3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/top_right1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/top_right2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/top_right3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/top_right4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/top_two_baby.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/touxiang.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/train.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/valli.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/video.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/virtual_bot.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/virture1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/virture2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/virture3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/website.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/wei.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/images/index_images/white.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/js/detail.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/js/head.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/js/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dong/js/jquery-3.1.1.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/douban/css/head.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/douban/css/main.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/douban/css/music.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/douban/css/myPage.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/douban/css/reset.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/douban/images/main/0.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/douban/images/main/1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/douban/images/main/2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/douban/images/main/3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/douban/images/main/4.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/douban/images/main/5.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/douban/images/main/6.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/douban/images/main/7.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/douban/images/main/8.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/douban/images/main/9.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/douban/images/main/ad.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/douban/images/main/ad1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/douban/images/main/douban.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/douban/images/main/douban.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/douban/images/main/head1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/douban/images/main/head2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/douban/images/main/head3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/douban/images/main/head4.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/douban/images/main/photo1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/douban/images/main/photo2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/douban/images/main/photo3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/douban/images/main/sao.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/douban/images/main/some.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/douban/images/music/1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/douban/images/music/2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/douban/images/music/3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/douban/images/music/4.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/douban/images/music/5.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/douban/images/music/6.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/douban/images/music/7.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/douban/images/music/8.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/douban/images/music/W(WTZ8GG5J2%Q]_N3DBS2_R.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/douban/images/music/ad.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/douban/images/music/img1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/douban/images/music/img2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/douban/images/music/img3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/douban/images/music/img4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/douban/images/music/img5.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/douban/images/music/img6.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/douban/images/music/music.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/douban/images/music/music1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/douban/images/music/music2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/douban/images/music/music2016.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/douban/images/music/music3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/douban/images/music/music4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/douban/images/music/music5.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/douban/images/music/music6.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/douban/images/music/music7.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/douban/images/music/music8.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/douban/images/music/sea.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/douban/images/music/sen1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/douban/images/music/sen2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/douban/images/music/sen3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/douban/images/music/sen4.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/douban/images/music/sen5.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/douban/images/music/sen6.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/douban/images/myPage/abulm.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/douban/images/myPage/book.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/douban/images/myPage/myhead.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/douban/js/head.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/douban/js/main.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/douban/js/music.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/douban/js/myPage.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/douban/main.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/douban/music.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/douban/myPage.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/dragShoppingcar/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/drawerImg/images/1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/drawerImg/images/2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/drawerImg/images/3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/drawerImg/images/4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/drawerImg/images/5.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/drawerImg/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/hoverInfo/images/1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/hoverInfo/images/10.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/hoverInfo/images/11.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/hoverInfo/images/12.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/hoverInfo/images/2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/hoverInfo/images/3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/hoverInfo/images/4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/hoverInfo/images/5.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/hoverInfo/images/6.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/hoverInfo/images/7.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/hoverInfo/images/8.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/hoverInfo/images/9.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/hoverInfo/images/Thumbs.db" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/hoverInfo/index - 副本.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/keyScrollball/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/macbook/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/messageBoard/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/mouseDraw/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/moveAlert/images/Thumbs.db" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/moveAlert/images/bg.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/moveAlert/images/close.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/moveAlert/myJs.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/moveAlert/弹出框可移动.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/moveIcon/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/moveLoad/images/1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/moveLoad/移动效果（按轨迹移动）.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/personal/css/animate.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/personal/css/index.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/personal/css/reset.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/personal/images/address.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/personal/images/bg.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/personal/images/coffee.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/personal/images/douban1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/personal/images/douban2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/personal/images/douban3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/personal/images/email.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/personal/images/headBg.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/personal/images/jingdong1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/personal/images/jingdong2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/personal/images/link.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/personal/images/phone.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/personal/images/vx.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/personal/js/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/personal/js/jquery-3.1.1.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/personal/js/myJs.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/personal/js/wow.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/randomCode/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/righthandBackground/images/1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/righthandBackground/images/2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/righthandBackground/images/3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/righthandBackground/images/4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/righthandBackground/images/5.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/righthandBackground/images/6.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/righthandBackground/images/Thumbs.db" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/righthandBackground/images/close.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/righthandBackground/images/ico1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/righthandBackground/images/ico2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/righthandBackground/images/ico3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/righthandBackground/images/ico4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/righthandBackground/images/ico5.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/righthandBackground/images/ico6.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/righthandBackground/images/ico7.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/righthandBackground/images/s_1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/righthandBackground/images/s_2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/righthandBackground/images/s_3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/righthandBackground/images/s_4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/righthandBackground/images/s_5.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/righthandBackground/images/s_6.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/righthandBackground/images/title_bg.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/righthandBackground/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/snake/snake.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/snake/snake.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/snake/snake.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/starBlink/images/star.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/starBlink/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/tabChange/简易选项卡.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/tag/images/1hd.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/tag/images/amazon.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/tag/images/baidu.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/tag/images/edit.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/tag/images/jd.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/tag/images/sina.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/tag/images/taobao.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/tag/images/xiaomi.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/tag/images/youku.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/tag/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/textSearch/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/webChangcolor/css/black.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/webChangcolor/css/green.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/webChangcolor/css/red.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/webChangcolor/网页换肤.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/webProject-master/wordRmove/index.html" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/selfDone_projects/bg_fix_slide/css/index.css" afterPath="$PROJECT_DIR$/selfDone_projects/bg_fix_slide/css/index.css" />
+      <change beforePath="$PROJECT_DIR$/selfDone_projects/bg_fix_slide/背景fix.html" afterPath="$PROJECT_DIR$/selfDone_projects/bg_fix_slide/背景fix.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -610,8 +17,67 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Projects_Sample/randomCode/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index - 副本.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Projects_Sample/hoverInfo/index - 副本.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="27" column="34" lean-forward="false" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Projects_Sample/keyScrollball/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="仿苹果电脑任务栏菜单.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Projects_Sample/Menu/iphone/仿苹果电脑任务栏菜单.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/selfDone_projects/背景fix.html" />
+        <option value="$PROJECT_DIR$/selfDone_projects/bg_fix_slide/背景fix.html" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -620,9 +86,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="197" />
+    <option name="x" value="28" />
     <option name="y" value="22" />
-    <option name="width" value="1232" />
+    <option name="width" value="1579" />
     <option name="height" value="973" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -641,6 +107,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -648,12 +116,58 @@
               <item name="Practise" type="b2602c69:ProjectViewProjectNode" />
               <item name="Practise" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Practise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practise" type="462c0819:PsiDirectoryNode" />
+              <item name="Projects_Sample" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Practise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practise" type="462c0819:PsiDirectoryNode" />
+              <item name="Projects_Sample" type="462c0819:PsiDirectoryNode" />
+              <item name="hoverInfo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Practise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practise" type="462c0819:PsiDirectoryNode" />
+              <item name="Projects_Sample" type="462c0819:PsiDirectoryNode" />
+              <item name="keyScrollball" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Practise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practise" type="462c0819:PsiDirectoryNode" />
+              <item name="Projects_Sample" type="462c0819:PsiDirectoryNode" />
+              <item name="Menu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Practise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practise" type="462c0819:PsiDirectoryNode" />
+              <item name="Projects_Sample" type="462c0819:PsiDirectoryNode" />
+              <item name="Menu" type="462c0819:PsiDirectoryNode" />
+              <item name="iphone" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Practise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practise" type="462c0819:PsiDirectoryNode" />
+              <item name="Projects_Sample" type="462c0819:PsiDirectoryNode" />
+              <item name="messageBoard" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Practise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practise" type="462c0819:PsiDirectoryNode" />
+              <item name="Projects_Sample" type="462c0819:PsiDirectoryNode" />
+              <item name="mouseDraw" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Practise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practise" type="462c0819:PsiDirectoryNode" />
+              <item name="Projects_Sample" type="462c0819:PsiDirectoryNode" />
+              <item name="randomCode" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -661,6 +175,15 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/selfDone_projects/bg_fix_slide" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/selfDone_projects" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -687,7 +210,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1515584125112</updated>
-      <workItem from="1515584126528" duration="310000" />
+      <workItem from="1515584126528" duration="4788000" />
+      <workItem from="1515667104287" duration="571000" />
     </task>
     <task id="LOCAL-00001" summary="jingdong">
       <created>1515584243317</created>
@@ -703,31 +227,39 @@
       <option name="project" value="LOCAL" />
       <updated>1515584424441</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="jingdong">
+      <created>1515584564039</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1515584564039</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="310000" />
+    <option name="totallyTimeSpent" value="5359000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="197" y="22" width="1232" height="973" extended-state="0" />
+    <frame x="28" y="22" width="1579" height="973" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1849711" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20988446" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32915717" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32915717" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -744,5 +276,270 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Projects_Sample/wordRmove/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="47" column="38" lean-forward="true" selection-start-line="47" selection-start-column="38" selection-end-line="47" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects_Sample/hoverInfo/index - 副本.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="34" lean-forward="true" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects_Sample/clearemotionsGame/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="23" column="17" lean-forward="true" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects_Sample/clearemotionsGame/img/9.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects_Sample/clearemotionsGame/img/5.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects_Sample/clearemotionsGame/img/3.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects_Sample/clearemotionsGame/img/1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects_Sample/clearemotionsGame/xk.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1980">
+          <caret line="132" column="0" lean-forward="true" selection-start-line="132" selection-start-column="0" selection-end-line="132" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects_Sample/behind/add-user.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects_Sample/behind/content.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-294">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects_Sample/behind/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="39" lean-forward="true" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects_Sample/behind/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="7" lean-forward="true" selection-start-line="37" selection-start-column="7" selection-end-line="37" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects_Sample/behind/js/Chart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-25205">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects_Sample/behind/tags.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-24">
+          <caret line="18" column="46" lean-forward="true" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects_Sample/clocks/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="19" lean-forward="false" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selfDone_projects/bg_fix_slide/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-72">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects_Sample/clock/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="71" column="57" lean-forward="false" selection-start-line="71" selection-start-column="57" selection-end-line="71" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects_Sample/coffee/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1594">
+          <caret line="243" column="45" lean-forward="false" selection-start-line="243" selection-start-column="45" selection-end-line="243" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects_Sample/coffee/js/jquery.singlePageNav.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selfDone_projects/bg_fix_slide/背景fix.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="12" lean-forward="false" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects_Sample/coffee/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="299" column="15" lean-forward="true" selection-start-line="299" selection-start-column="15" selection-end-line="299" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects_Sample/macbook/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2325">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects_Sample/snake/snake.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects_Sample/snake/snake.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects_Sample/snake/snake.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="40" column="47" lean-forward="true" selection-start-line="40" selection-start-column="47" selection-end-line="40" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects_Sample/righthandBackground/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="83" column="0" lean-forward="false" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects_Sample/starBlink/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects_Sample/wordRmove/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="47" column="38" lean-forward="false" selection-start-line="47" selection-start-column="38" selection-end-line="47" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects_Sample/Menu/language.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects_Sample/Menu/rotatemenu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects_Sample/Menu/scrollTopMENU.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="32" column="12" lean-forward="true" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects_Sample/messageBoard/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects_Sample/mouseDraw/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects_Sample/randomCode/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects_Sample/hoverInfo/index - 副本.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="27" column="34" lean-forward="false" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects_Sample/keyScrollball/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects_Sample/Menu/iphone/仿苹果电脑任务栏菜单.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
