@@ -2,10 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87a94a57-e267-46f8-abed-4628381d1b9e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/selfDone_projects/JS_原生打飞机游戏/image/background_1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/selfDone_projects/JS_原生打飞机游戏/image/bullet1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/selfDone_projects/JS_原生打飞机游戏/image/bz.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/selfDone_projects/JS_原生打飞机游戏/image/bz1.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/selfDone_projects/JS_原生打飞机游戏/image/bz2.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/selfDone_projects/JS_原生打飞机游戏/image/bz3.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/selfDone_projects/JS_原生打飞机游戏/image/enemy1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/selfDone_projects/JS_原生打飞机游戏/image/enemy2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/selfDone_projects/JS_原生打飞机游戏/image/enemy3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/selfDone_projects/JS_原生打飞机游戏/image/ks.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/selfDone_projects/JS_原生打飞机游戏/image/my.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/selfDone_projects/JS_原生打飞机游戏/image/中飞机爆炸.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/selfDone_projects/JS_原生打飞机游戏/image/大飞机爆炸.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/selfDone_projects/JS_原生打飞机游戏/image/小飞机爆炸.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/selfDone_projects/JS_原生打飞机游戏/image/开始背景.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/selfDone_projects/JS_原生打飞机游戏/image/我的飞机.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/selfDone_projects/JS_原生打飞机游戏/image/本方飞机爆炸.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/selfDone_projects/JS_原生打飞机游戏/plane.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/selfDone_projects/JS_原生打飞机游戏/plane.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/selfDone_projects/JS_原生打飞机游戏/style.css" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/selfDone_projects/bg_fix_slide/css/index.css" afterPath="$PROJECT_DIR$/selfDone_projects/bg_fix_slide/css/index.css" />
-      <change beforePath="$PROJECT_DIR$/selfDone_projects/bg_fix_slide/背景fix.html" afterPath="$PROJECT_DIR$/selfDone_projects/bg_fix_slide/背景fix.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,55 +35,54 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Projects_Sample/randomCode/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index - 副本.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Projects_Sample/hoverInfo/index - 副本.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="27" column="34" lean-forward="false" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Projects_Sample/keyScrollball/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="仿苹果电脑任务栏菜单.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Projects_Sample/Menu/iphone/仿苹果电脑任务栏菜单.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5752949">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="plane.js" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/selfDone_projects/JS_原生打飞机游戏/plane.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="540">
+                  <caret line="36" column="40" lean-forward="true" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
+                  <folding>
+                    <element signature="e#1256#1791#0" expanded="false" />
+                    <element signature="e#1821#2742#0" expanded="false" />
+                    <element signature="e#2803#2849#0" expanded="false" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="plane.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/selfDone_projects/JS_原生打飞机游戏/plane.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="105">
+                  <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="7" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>alert</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -76,6 +92,9 @@
       <list>
         <option value="$PROJECT_DIR$/selfDone_projects/背景fix.html" />
         <option value="$PROJECT_DIR$/selfDone_projects/bg_fix_slide/背景fix.html" />
+        <option value="$PROJECT_DIR$/selfDone_projects/JS_原生打飞机游戏/plane.html" />
+        <option value="$PROJECT_DIR$/selfDone_projects/JS_原生打飞机游戏/style.css" />
+        <option value="$PROJECT_DIR$/selfDone_projects/JS_原生打飞机游戏/plane.js" />
       </list>
     </option>
   </component>
@@ -86,9 +105,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="28" />
+    <option name="x" value="75" />
     <option name="y" value="22" />
-    <option name="width" value="1579" />
+    <option name="width" value="1506" />
     <option name="height" value="973" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -124,45 +143,20 @@
             <path>
               <item name="Practise" type="b2602c69:ProjectViewProjectNode" />
               <item name="Practise" type="462c0819:PsiDirectoryNode" />
-              <item name="Projects_Sample" type="462c0819:PsiDirectoryNode" />
-              <item name="hoverInfo" type="462c0819:PsiDirectoryNode" />
+              <item name="selfDone_projects" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Practise" type="b2602c69:ProjectViewProjectNode" />
               <item name="Practise" type="462c0819:PsiDirectoryNode" />
-              <item name="Projects_Sample" type="462c0819:PsiDirectoryNode" />
-              <item name="keyScrollball" type="462c0819:PsiDirectoryNode" />
+              <item name="selfDone_projects" type="462c0819:PsiDirectoryNode" />
+              <item name="JS_原生打飞机游戏" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Practise" type="b2602c69:ProjectViewProjectNode" />
               <item name="Practise" type="462c0819:PsiDirectoryNode" />
-              <item name="Projects_Sample" type="462c0819:PsiDirectoryNode" />
-              <item name="Menu" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Practise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Practise" type="462c0819:PsiDirectoryNode" />
-              <item name="Projects_Sample" type="462c0819:PsiDirectoryNode" />
-              <item name="Menu" type="462c0819:PsiDirectoryNode" />
-              <item name="iphone" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Practise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Practise" type="462c0819:PsiDirectoryNode" />
-              <item name="Projects_Sample" type="462c0819:PsiDirectoryNode" />
-              <item name="messageBoard" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Practise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Practise" type="462c0819:PsiDirectoryNode" />
-              <item name="Projects_Sample" type="462c0819:PsiDirectoryNode" />
-              <item name="mouseDraw" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Practise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Practise" type="462c0819:PsiDirectoryNode" />
-              <item name="Projects_Sample" type="462c0819:PsiDirectoryNode" />
-              <item name="randomCode" type="462c0819:PsiDirectoryNode" />
+              <item name="selfDone_projects" type="462c0819:PsiDirectoryNode" />
+              <item name="JS_原生打飞机游戏" type="462c0819:PsiDirectoryNode" />
+              <item name="image" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -176,13 +170,15 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/selfDone_projects/JS_原生打飞机游戏" />
+      <recent name="$PROJECT_DIR$/selfDone_projects" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/selfDone_projects/bg_fix_slide" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/selfDone_projects" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -211,7 +207,11 @@
       <option name="presentableId" value="Default" />
       <updated>1515584125112</updated>
       <workItem from="1515584126528" duration="4788000" />
-      <workItem from="1515667104287" duration="571000" />
+      <workItem from="1515667104287" duration="601000" />
+      <workItem from="1515977003832" duration="173000" />
+      <workItem from="1515984827745" duration="451000" />
+      <workItem from="1515997346995" duration="347000" />
+      <workItem from="1516063985549" duration="17079000" />
     </task>
     <task id="LOCAL-00001" summary="jingdong">
       <created>1515584243317</created>
@@ -234,24 +234,31 @@
       <option name="project" value="LOCAL" />
       <updated>1515584564039</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="jingdong">
+      <created>1515668414684</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1515668414684</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5359000" />
+    <option name="totallyTimeSpent" value="23439000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="28" y="22" width="1579" height="973" extended-state="0" />
+    <frame x="75" y="22" width="1506" height="973" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20988446" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20336701" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32915717" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32915717" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -274,15 +281,37 @@
     <option name="LAST_COMMIT_MESSAGE" value="jingdong" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Projects_Sample/randomCode/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects_Sample/keyScrollball/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects_Sample/Menu/iphone/仿苹果电脑任务栏菜单.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Projects_Sample/wordRmove/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="705">
           <caret line="47" column="38" lean-forward="true" selection-start-line="47" selection-start-column="38" selection-end-line="47" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -290,14 +319,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="27" column="34" lean-forward="true" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Projects_Sample/clearemotionsGame/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="23" column="17" lean-forward="true" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -367,13 +388,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-24">
           <caret line="18" column="46" lean-forward="true" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Projects_Sample/clocks/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="19" lean-forward="false" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -465,7 +479,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="705">
           <caret line="47" column="38" lean-forward="false" selection-start-line="47" selection-start-column="38" selection-end-line="47" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -473,7 +486,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -481,7 +493,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -489,6 +500,78 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="139">
           <caret line="32" column="12" lean-forward="true" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects_Sample/mouseDraw/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects_Sample/randomCode/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects_Sample/hoverInfo/index - 副本.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="34" lean-forward="false" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects_Sample/keyScrollball/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects_Sample/Menu/iphone/仿苹果电脑任务栏菜单.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="19" column="66" lean-forward="true" selection-start-line="19" selection-start-column="66" selection-end-line="19" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects_Sample/clearemotionsGame/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="23" column="17" lean-forward="true" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects_Sample/clocks/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="19" lean-forward="false" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects_Sample/douban/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects_Sample/douban/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2730">
+          <caret line="182" column="46" lean-forward="false" selection-start-line="182" selection-start-column="46" selection-end-line="182" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects_Sample/douban/css/head.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -501,43 +584,56 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Projects_Sample/mouseDraw/index.html">
+    <entry file="file://$PROJECT_DIR$/selfDone_projects/JS_原生打飞机游戏/image/ks.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selfDone_projects/JS_原生打飞机游戏/image/my.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selfDone_projects/JS_原生打飞机游戏/image/background_1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selfDone_projects/JS_原生打飞机游戏/image/bz.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selfDone_projects/JS_原生打飞机游戏/image/bullet1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selfDone_projects/JS_原生打飞机游戏/plane.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="105">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Projects_Sample/randomCode/index.html">
+    <entry file="file://$PROJECT_DIR$/selfDone_projects/JS_原生打飞机游戏/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="711">
+          <caret line="78" column="4" lean-forward="false" selection-start-line="78" selection-start-column="6" selection-end-line="79" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Projects_Sample/hoverInfo/index - 副本.html">
+    <entry file="file://$PROJECT_DIR$/selfDone_projects/JS_原生打飞机游戏/plane.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="27" column="34" lean-forward="false" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Projects_Sample/keyScrollball/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Projects_Sample/Menu/iphone/仿苹果电脑任务栏菜单.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-          <folding />
+        <state relative-caret-position="540">
+          <caret line="36" column="40" lean-forward="true" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
+          <folding>
+            <element signature="e#1256#1791#0" expanded="false" />
+            <element signature="e#1821#2742#0" expanded="false" />
+            <element signature="e#2803#2849#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
